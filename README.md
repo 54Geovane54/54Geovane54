@@ -11,7 +11,7 @@ I am passionate about problem-solving, automation, and information security.
 ### 🛠️ Tech Stack
 - **Languages:** Python (Automation & Scripting)
 - **Tools:** Linux, Windows, Power BI, Advanced Office Package.
-- **Certifications:** CC50 Harvard (In Progress), TryHackMe Pre-Security.
+- **Certifications:** CC50 Harvard (In Progress), TryHackMe Cyber Security 101 (In Progress).
 
 ### 🏆 Academic Highlights
 - 3-time **Academic Merit Medalist** (High School Honors).
