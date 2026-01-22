@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Geovane Gomes 👋
 
-<!--
-**54Geovane54/54Geovane54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professional and dedicated student of **Cybersecurity** (5th Semester) based in Rio de Janeiro, Brazil. 
+I am passionate about problem-solving, automation, and information security.
 
-Here are some ideas to get you started:
+### 🛡️ Core Focus
+- **Cybersecurity:** Learning Network Security, Pentesting, and Threat Analysis.
+- **Development:** Creating automation tools and security scripts using **Python**.
+- **Tech Writing:** Founder of **Ciberprimatas**, where I simplify complex security concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python (Automation & Scripting)
+- **Tools:** Linux, Windows, Power BI, Advanced Office Package.
+- **Certifications:** CC50 Harvard (In Progress), TryHackMe Pre-Security.
+
+### 🏆 Academic Highlights
+- 3-time **Academic Merit Medalist** (High School Honors).
+- Highly focused on complex tasks and technical documentation.
+
+### 📫 Connect with me:
+- **Email:** contatogeovanerrg@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/geovane-gomes-8499423a1/
