@@ -9,9 +9,10 @@ I am passionate about problem-solving, automation, and information security.
 - **Tech Writing:** Founder of **Ciberprimatas**, where I simplify complex security concepts.
 
 ### 🛠️ Tech Stack
-- **Languages:** Python (Automation & Scripting)
+- **Languages:** HTML, CSS, JavaScript, Python.
+- **Frameworks:** Django.
 - **Tools:** Linux, Windows, Power BI, Advanced Office Package.
-- **Certifications:** CC50 Harvard (In Progress), TryHackMe Cyber Security 101 (In Progress).
+- **Certifications:** CC50 Fundação Estudar/Harvard (In Progress).
 
 ### 🏆 Academic Highlights
 - 3-time **Academic Merit Medalist** (High School Honors).
